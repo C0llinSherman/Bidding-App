@@ -1,0 +1,6 @@
+.bidders{
+    display: flex;
+}
+.bidder{
+    margin-right: 20px;
+}
